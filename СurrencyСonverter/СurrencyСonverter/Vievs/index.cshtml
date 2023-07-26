@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Конвертер валют";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@if (ViewData.ContainsKey("Error"))
+{
+    <p>@ViewData["Error"]</p>
+}
+else
+{
+    <p>Курс валют на 17.07.2023:</p>
+    <p>1 USD = @ViewData["USD"] AZN</p>
+    <p>1 EUR = @ViewData["EUR"] AZN</p>
+}
+    
