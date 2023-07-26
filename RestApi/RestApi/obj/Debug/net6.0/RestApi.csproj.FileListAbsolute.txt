@@ -1,0 +1,6 @@
+C:\Users\maksi\Desktop\Asp\RestApi\RestApi\obj\Debug\net6.0\RestApi.csproj.AssemblyReference.cache
+C:\Users\maksi\Desktop\Asp\RestApi\RestApi\obj\Debug\net6.0\RestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\Desktop\Asp\RestApi\RestApi\obj\Debug\net6.0\RestApi.AssemblyInfoInputs.cache
+C:\Users\maksi\Desktop\Asp\RestApi\RestApi\obj\Debug\net6.0\RestApi.AssemblyInfo.cs
+C:\Users\maksi\Desktop\Asp\RestApi\RestApi\obj\Debug\net6.0\RestApi.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Desktop\Asp\RestApi\RestApi\obj\Debug\net6.0\RestApi.MvcApplicationPartsAssemblyInfo.cache
