@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #ff0000;
+}
+header .logo {
+  color: #ffffff;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+.search input, .search select {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.listings .listing {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}/*# sourceMappingURL=style.css.map */

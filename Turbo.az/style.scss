@@ -1,0 +1,39 @@
+// styles.scss
+
+$primary-color: #ff0000;
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: $primary-color;
+  .logo {
+    color: #ffffff;
+  }
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+.search {
+  // Styles for search bar and filters
+  input, select {
+    display: block;
+    margin-bottom: 10px;
+  }
+}
+
+.listings {
+  // Styles for car listings
+  .listing {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+}
+
+footer {
+  // Styles for footer
+}
